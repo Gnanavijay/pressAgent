@@ -1,4 +1,4 @@
-# pressAgent
+PressAgent:Press Kit Generator
 An AI-powered tool for automatically generating and reviewing press kits.
 
 Features
